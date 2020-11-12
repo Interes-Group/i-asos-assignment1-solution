@@ -1,4 +1,8 @@
 # Zadanie 1 - Úvod do Spring Framework [RIEŠENIE]
+![Java CI with Maven](https://github.com/Interes-Group/i-asos-assignment1-solution/workflows/Java%20CI%20with%20Maven/badge.svg?branch=master)
+![License MIT](https://img.shields.io/badge/License-MIT-green)
+![Java 1.8](https://img.shields.io/badge/Java-1.8-blue)
+
 Tento projekt slúži ako demonštrácia jedného možného riešenia Zadanie 1 z predmetu I-ASOS 2020 na FEI STU.
 
 Cieľom zadania je overiť základné znalosti používania Spring Frameworku.
